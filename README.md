@@ -6,13 +6,13 @@ radio button, untuk Keterampilan menggunakan checkbox, untuk kelas menggunakan s
 Jika kita tidka mengisi Nama dan Asal Sekolah maka akan muncul peringatan. Jika kita tidak memilih keterampilan dan Kelas maka hasil nya menyuruh kita untuk mengisi semuanya.
 
  **bold** Screenshoot:
-- Tampilan : ![Image of Tampilan](https://drive.google.com/open?id=0ByBJzbmrN9ZvRFRLRDNXUTVWbWM)
-- Tampilan jika belum diisi : ![Image of Tampilan belum diisi](https://drive.google.com/open?id=0ByBJzbmrN9ZvMXJuTnB5R19pQ0k)
-- Tampilan Jika ada yang belum dipilih : ![Image of Tampilan jika ada belum diisi](https://drive.google.com/open?id=0ByBJzbmrN9ZvVnFCZmhYaUdRaFk)
-- Hasil muncul : ![Image of Hasil](https://drive.google.com/open?id=0ByBJzbmrN9ZveDQwMUFSZTFYc0E)
+- Tampilan : https://drive.google.com/open?id=0ByBJzbmrN9ZvRFRLRDNXUTVWbWM
+- Tampilan jika belum diisi : https://drive.google.com/open?id=0ByBJzbmrN9ZvMXJuTnB5R19pQ0k
+- Tampilan Jika ada yang belum dipilih : (https://drive.google.com/open?id=0ByBJzbmrN9ZvVnFCZmhYaUdRaFk
+- Hasil muncul : https://drive.google.com/open?id=0ByBJzbmrN9ZveDQwMUFSZTFYc0E
 
  **bold** Link aplikasi :
-[Daftar Prakerin]https://drive.google.com/open?id=0ByBJzbmrN9ZvVGthaEFhWm14UHc
+[Daftar Prakerin](https://drive.google.com/open?id=0ByBJzbmrN9ZvVGthaEFhWm14UHc)
 
  **bold** Nama : Alherani Junivia Nugraha
  **bold** Kelas : XIIRPL1
