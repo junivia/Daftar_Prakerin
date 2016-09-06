@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
             if (cbDG.isChecked()) HasilK += cbDG.getText() + "\n";
             if (cbPI.isChecked()) HasilK += cbPI.getText() + "\n";
 
-            if (HasilK == null || Nama == null || Sekolah == null || Kelas == null) {
+            if (Hasil == null || HasilK == null || Nama == null || Sekolah == null || Kelas == null) {
                 hasil.setText("ISI SEMUANYA!!!");
             } else {
                 hasil.setText("Nama                 : " + Nama +
