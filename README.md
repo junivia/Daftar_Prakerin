@@ -14,7 +14,7 @@ Jika kita tidka mengisi Nama dan Asal Sekolah maka akan muncul peringatan. Jika 
 
 - Link aplikasi : 
 [Daftar Prakerin](https://drive.google.com/open?id=0ByBJzbmrN9ZvVGthaEFhWm14UHc)
-
+______________________________________________________________________________________________________________________________________
   Nama : Alherani Junivia Nugraha
  
   Kelas : XIIRPL1
