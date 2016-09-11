@@ -7,7 +7,7 @@ radio button, untuk Keterampilan menggunakan checkbox, untuk kelas menggunakan s
 Jika kita tidak mengisi Nama dan Asal Sekolah maka akan muncul peringatan supaya inputan diisi. Jika kita tidak memilih keterampilan dan Kelas maka hasil nya menyuruh kita untuk mengisi semuanya.
 
 - Screenshoot:
-      - Tampilan : [Tampilan 1](https://docs.google.com/uc?id=0ByBJzbmrN9ZvRFRLRDNXUTVWbWM)
+      - Tampilan : ![Tampilan 1](https://docs.google.com/uc?id=0ByBJzbmrN9ZvRFRLRDNXUTVWbWM)
       - Tampilan jika belum diisi : [Tampilan 2](https://drive.google.com/open?id=0ByBJzbmrN9ZvMXJuTnB5R19pQ0k)
       - Tampilan Jika ada yang belum dipilih : [Tampilan 3](https://drive.google.com/open?id=0ByBJzbmrN9ZvVnFCZmhYaUdRaFk)
       - Hasil muncul : [Tampilan 4](https://drive.google.com/open?id=0ByBJzbmrN9ZveDQwMUFSZTFYc0E)
