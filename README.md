@@ -2,9 +2,9 @@
  
 - Penjelasan :
 Aplikasi ini tentang Pendaftaran Prakerin dari sebuah perusahaan, disini perusahaannya adalah perusahaan dimana saya sedang Prakerin. Di Pendaftaran Prakerin ini
-kita disuruh menginputkan Nama, Asal Sekolah, Jenis Kelamin, Keterampilan, Kelas. Untuk Nama dan Asal Sekolah adalah inputan biasa. Untuk Jenis kelamin menggunakan 
-radio button, untuk Keterampilan menggunakan checkbox, untuk kelas menggunakan spinner. setelah di klik "SUBMIT" maka hasilnya akan muncul dibawah tombol "SUBMIT" tersebut.
-Jika kita tidak mengisi Nama dan Asal Sekolah maka akan muncul peringatan supaya inputan diisi. Jika kita tidak memilih keterampilan dan Kelas maka hasil nya menyuruh kita untuk mengisi semuanya.
+kita disuruh menginputkan Nama, Asal Sekolah, Jenis Kelamin, Keterampilan, Kelas. Untuk Nama dan Asal Sekolah adalah Edit Text. Untuk "Jenis kelamin" menggunakan 
+Radio Grup yang berisikan Radio Button, untuk "Keterampilan" menggunakan Checkbox, untuk "Kelas" menggunakan Spinner, untuk keterangannya menggunakan TextView, dan Logo nya menggunakan Image View. Setelah di klik "SUBMIT" maka hasilnya akan muncul dibawah tombol "SUBMIT" tersebut.
+Jika kita tidak mengisi Nama dan Asal Sekolah maka akan muncul peringatan supaya inputan harus diisi. Jika kita tidak memilih keterampilan dan Kelas maka hasil nya menyuruh kita untuk mengisi semuanya.
 
 - Screenshoot:
       - Tampilan : ![Tampilan 1](https://docs.google.com/uc?id=0ByBJzbmrN9ZvZ3MwSk1FQmdIOU0)
